@@ -1,0 +1,26 @@
+
+/* Setting the heading in front of the carousel*/
+#mainheading1 {
+    position: absolute;
+    top: 0px;
+    font-size: 8vw;
+    padding-left: 50px;
+    z-index: 1;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav1 {
+    padding-left: 5vw;
+    padding-right: 5vw;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3vw;
+}
+
+hr.hr1 {
+    width: 80vw;
+    margin-top: 0;
+}
+
+.cards1 {
+    width: 400px;
+}
